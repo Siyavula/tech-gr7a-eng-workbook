@@ -5,7 +5,8 @@
     <dc:title>My Untitled Book</dc:title>
     <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
     <dc:date opf:event="publication">2013-10-08</dc:date>
-  </metadata>
+      <meta properties="dcterms:modified">2014-4-22</meta>
+</metadata>
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
