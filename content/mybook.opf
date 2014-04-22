@@ -10,6 +10,6 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
-  </manifest>
-  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
+  <item href="10-things-to-consider-b15b3224-dfa2-47d2-ac0d-b586ef169c99.html" id="10-things-to-consider-b15b3224-dfa2-47d2-ac0d-b586ef169c99.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="10-things-to-consider-b15b3224-dfa2-47d2-ac0d-b586ef169c99.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
 </package>
